@@ -1,5 +1,5 @@
 # React Router Basic Nav
-
+<!-- edit -->
 Topics:
 
 * Single Page Applications
@@ -10,7 +10,7 @@ Topics:
 ## Project Description
 
 * A starter pack project for all things React Router. Learn to set up a basic routing system within an application. Use this application to help guide your learning over the next couple of days.
-* **Note** that this project has already been boilerplated for you. There is no need to run any installation steps beyond `yarn install`.
+* **Note** that this project has already been boilerplated for you. There is no need to run any installation steps beyond `yarn inastall`.
 
 ### Initialize Project
 
